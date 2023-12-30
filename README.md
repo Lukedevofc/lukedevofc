@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou o Lukedevofc.
 <div align="center">
   <a href="https://github.com/Lukedevofc"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukedevofc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukedevofc&layout=compact&langs_count&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukedevofc&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>

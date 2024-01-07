@@ -4,15 +4,15 @@
     </a>
 </h1>
 
-Bem-vindo ao meu perfil do GitHub! Eu sou o Lukedevofc.
+Bem-vindo ao meu perfil do GitHub! Eu sou o Ludevofc.
 
 - 🔭 Atualmente estou trabalhando em projetos emocionantes relacionados a ɯǝʌıℲ e the sims mods...
 - 👯 Estou procurando colaborar em projetos interessantes e desafiadores...
   
 <div align="center">
-  <a href="https://github.com/Lukedevofc"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukedevofc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukedevofc&layout=compact&theme=dracula"/>
+  <a href="https://github.com/Ludevofc"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludevofc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludevofc&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
